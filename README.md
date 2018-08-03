@@ -1,6 +1,6 @@
 Test
 
-![](https://github.com/anonymous2707/BetCash/blob/master/src/betcoin.icon)
+![](https://github.com/anonymous2707/BetCashes/blob/master/src/betcoin.icon)
 
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
