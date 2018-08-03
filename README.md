@@ -1,4 +1,4 @@
-Test
+Test, dont compile now.
 
 ![](https://github.com/anonymous2707/BetCashes/blob/master/src/betcoin.icon)
 
